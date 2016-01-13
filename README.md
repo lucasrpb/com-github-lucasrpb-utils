@@ -1,2 +1,2 @@
 # com-github-lucasrpb-utils
-Javascript utils
+Javascript Utils
